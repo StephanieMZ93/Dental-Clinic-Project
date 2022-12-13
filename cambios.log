@@ -1,0 +1,201 @@
+[2022-12-11 14:14:48] [ INFO ] [OdontologoService:24] Se comenzo el registro del odontologo con nombre: Lucia
+[2022-12-11 14:14:51] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-11 14:14:53] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-11 14:14:53] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-11 14:14:53] [ WARN ] [OdontologoService:39] Eliminado el odontologo con ID: 1
+[2022-12-11 14:14:58] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-11 14:16:39] [ INFO ] [PacienteService:58] Se comenzo la búsqueda del odontologo con Email: stefy9319@hotmail.com
+[2022-12-11 14:16:39] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-11 14:16:42] [ INFO ] [PacienteService:53] Se comenzo la búsqueda de los pacientes.
+[2022-12-11 14:16:44] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-11 14:16:44] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-11 14:16:44] [ WARN ] [PacienteService:44] Eliminado el paciente con ID: 1
+[2022-12-11 14:16:48] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-11 14:16:57] [ INFO ] [OdontologoService:24] Se comenzo el registro del odontologo con nombre: Stephanie
+[2022-12-11 14:17:21] [ INFO ] [OdontologoService:24] Se comenzo el registro del odontologo con nombre: Norberto
+[2022-12-11 14:17:24] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-11 14:18:07] [ INFO ] [PacienteService:58] Se comenzo la búsqueda del odontologo con Email: malu@hotmail.com
+[2022-12-11 14:18:07] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Quintero
+[2022-12-11 14:18:09] [ INFO ] [PacienteService:53] Se comenzo la búsqueda de los pacientes.
+[2022-12-11 14:18:45] [ INFO ] [PacienteService:58] Se comenzo la búsqueda del odontologo con Email: marina9@hotmail.com
+[2022-12-11 14:18:45] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Muñoz
+[2022-12-11 14:18:46] [ INFO ] [PacienteService:53] Se comenzo la búsqueda de los pacientes.
+[2022-12-11 14:18:58] [ INFO ] [PacienteService:53] Se comenzo la búsqueda de los pacientes.
+[2022-12-11 14:19:22] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-11 14:19:22] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-11 14:19:24] [ INFO ] [TurnoService:93] Se comenzo la búsqueda de los turnos.
+[2022-12-11 14:19:28] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-11 14:19:39] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-11 14:19:39] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 2
+[2022-12-11 14:19:39] [ INFO ] [TurnoService:29] Comenzo el registo del TurnoDTO con ID: null
+[2022-12-11 14:19:42] [ INFO ] [TurnoService:93] Se comenzo la búsqueda de los turnos.
+[2022-12-11 14:19:47] [ INFO ] [TurnoService:35] Comenzo la búsqueda del TurnoDTO con ID: 1
+[2022-12-11 14:19:47] [ INFO ] [TurnoService:35] Comenzo la búsqueda del TurnoDTO con ID: 1
+[2022-12-11 14:19:47] [ WARN ] [TurnoService:56] Eliminado el TurnoDTO con ID: 1
+[2022-12-11 14:19:50] [ INFO ] [PacienteService:53] Se comenzo la búsqueda de los pacientes.
+[2022-12-11 14:19:51] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 2
+[2022-12-11 14:19:51] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 2
+[2022-12-11 14:19:51] [ WARN ] [PacienteService:44] Eliminado el paciente con ID: 2
+[2022-12-11 14:19:52] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 3
+[2022-12-11 14:19:52] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 3
+[2022-12-11 14:19:52] [ WARN ] [PacienteService:44] Eliminado el paciente con ID: 3
+[2022-12-11 14:19:54] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-11 14:19:55] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-11 14:19:55] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-11 14:19:55] [ WARN ] [OdontologoService:39] Eliminado el odontologo con ID: 1
+[2022-12-11 14:19:55] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 2
+[2022-12-11 14:19:55] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 2
+[2022-12-11 14:19:55] [ WARN ] [OdontologoService:39] Eliminado el odontologo con ID: 2
+[2022-12-11 14:26:34] [ INFO ] [PacienteService:58] Se comenzo la búsqueda del odontologo con Email: stefy9319@hotmail.com
+[2022-12-11 14:26:34] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-11 14:27:23] [ INFO ] [PacienteService:53] Se comenzo la búsqueda de los pacientes.
+[2022-12-11 14:27:39] [ INFO ] [PacienteService:58] Se comenzo la búsqueda del odontologo con Email: stefy9319@hotmail.com
+[2022-12-11 14:27:39] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-11 14:27:40] [ INFO ] [PacienteService:53] Se comenzo la búsqueda de los pacientes.
+[2022-12-11 14:29:24] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-11 14:29:24] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-11 14:29:24] [ WARN ] [PacienteService:44] Eliminado el paciente con ID: 1
+[2022-12-11 14:29:26] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-11 14:29:28] [ INFO ] [TurnoService:93] Se comenzo la búsqueda de los turnos.
+[2022-12-11 14:47:33] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-11 14:48:13] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-11 14:48:14] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-11 23:17:23] [ INFO ] [OdontologoService:24] Se comenzo el registro del odontologo con nombre: Stephanie
+[2022-12-11 23:17:25] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-11 23:17:49] [ INFO ] [PacienteService:58] Se comenzo la búsqueda del odontologo con Email: stefy9319@hotmail.com
+[2022-12-11 23:17:49] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-11 23:17:51] [ INFO ] [PacienteService:53] Se comenzo la búsqueda de los pacientes.
+[2022-12-11 23:18:01] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-11 23:18:01] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-11 23:18:01] [ INFO ] [TurnoService:29] Comenzo el registo del TurnoDTO con ID: null
+[2022-12-11 23:18:03] [ INFO ] [TurnoService:93] Se comenzo la búsqueda de los turnos.
+[2022-12-12 12:28:21] [ INFO ] [OdontologoService:24] Se comenzo el registro del odontologo con nombre: Stephanie
+[2022-12-12 12:28:23] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-12 12:28:26] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-12 12:28:26] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-12 12:28:26] [ WARN ] [OdontologoService:39] Eliminado el odontologo con ID: 1
+[2022-12-12 12:28:56] [ INFO ] [PacienteService:58] Se comenzo la búsqueda del odontologo con Email: stefy9319@hotmail.com
+[2022-12-12 12:28:56] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 12:28:59] [ INFO ] [PacienteService:53] Se comenzo la búsqueda de los pacientes.
+[2022-12-12 12:29:27] [ INFO ] [OdontologoService:24] Se comenzo el registro del odontologo con nombre: Stephanie
+[2022-12-12 12:29:41] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-12 12:29:41] [ ERROR] [GlobalExceptions:22] Se esta presentando un error: No es posible registrar turno dado el paciente o el odontologo no fueron encontrados
+[2022-12-12 12:29:43] [ INFO ] [TurnoService:93] Se comenzo la búsqueda de los turnos.
+[2022-12-12 12:29:48] [ INFO ] [PacienteService:53] Se comenzo la búsqueda de los pacientes.
+[2022-12-12 12:29:56] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-12 12:29:56] [ ERROR] [GlobalExceptions:22] Se esta presentando un error: No es posible registrar turno dado el paciente o el odontologo no fueron encontrados
+[2022-12-12 12:29:57] [ INFO ] [TurnoService:93] Se comenzo la búsqueda de los turnos.
+[2022-12-12 12:29:59] [ INFO ] [TurnoService:93] Se comenzo la búsqueda de los turnos.
+[2022-12-12 12:30:03] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-12 12:30:05] [ INFO ] [PacienteService:53] Se comenzo la búsqueda de los pacientes.
+[2022-12-12 12:30:11] [ INFO ] [TurnoService:93] Se comenzo la búsqueda de los turnos.
+[2022-12-12 12:30:21] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 2
+[2022-12-12 12:30:21] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 12:30:21] [ INFO ] [TurnoService:29] Comenzo el registo del TurnoDTO con ID: null
+[2022-12-12 12:30:22] [ INFO ] [TurnoService:93] Se comenzo la búsqueda de los turnos.
+[2022-12-12 12:30:26] [ INFO ] [TurnoService:35] Comenzo la búsqueda del TurnoDTO con ID: 1
+[2022-12-12 12:30:26] [ INFO ] [TurnoService:35] Comenzo la búsqueda del TurnoDTO con ID: 1
+[2022-12-12 12:30:26] [ WARN ] [TurnoService:56] Eliminado el TurnoDTO con ID: 1
+[2022-12-12 12:30:28] [ INFO ] [PacienteService:53] Se comenzo la búsqueda de los pacientes.
+[2022-12-12 12:30:29] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 12:30:29] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 12:30:29] [ WARN ] [PacienteService:44] Eliminado el paciente con ID: 1
+[2022-12-12 12:30:30] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-12 12:30:31] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 2
+[2022-12-12 12:30:31] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 2
+[2022-12-12 12:30:31] [ WARN ] [OdontologoService:39] Eliminado el odontologo con ID: 2
+[2022-12-12 14:24:27] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Norberto
+[2022-12-12 14:24:27] [ INFO ] [OdontologoService:24] Se comenzo el registro del odontologo con nombre: Lucia
+[2022-12-12 14:24:27] [ INFO ] [TurnoService:29] Comenzo el registo del TurnoDTO con ID: null
+[2022-12-12 14:24:27] [ INFO ] [TurnoService:93] Se comenzo la búsqueda de los turnos.
+[2022-12-12 14:24:29] [ INFO ] [OdontologoService:24] Se comenzo el registro del odontologo con nombre: Maria
+[2022-12-12 14:24:29] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-12 14:24:29] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-12 14:24:29] [ INFO ] [OdontologoService:32] Se comenzo a actualizar al odontologo con ID: null
+[2022-12-12 14:24:29] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-12 14:24:29] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-12 14:24:29] [ WARN ] [OdontologoService:39] Eliminado el odontologo con ID: 1
+[2022-12-12 14:24:29] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-12 14:24:29] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 14:24:29] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 14:24:29] [ INFO ] [PacienteService:53] Se comenzo la búsqueda de los pacientes.
+[2022-12-12 14:24:29] [ INFO ] [PacienteService:36] Se comenzo a actualizar al paciente con ID: 1
+[2022-12-12 14:24:29] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 14:24:29] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 14:24:29] [ WARN ] [PacienteService:44] Eliminado el paciente con ID: 1
+[2022-12-12 14:24:29] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 14:24:29] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 14:55:25] [ INFO ] [OdontologoService:24] Se comenzo el registro del odontologo con nombre: Stephanie
+[2022-12-12 14:55:27] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-12 14:55:46] [ INFO ] [PacienteService:58] Se comenzo la búsqueda del odontologo con Email: stefy9319@hotmail.com
+[2022-12-12 14:55:46] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 14:55:49] [ INFO ] [PacienteService:53] Se comenzo la búsqueda de los pacientes.
+[2022-12-12 14:55:54] [ INFO ] [PacienteService:53] Se comenzo la búsqueda de los pacientes.
+[2022-12-12 14:55:56] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-12 14:56:03] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-12 14:56:03] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 14:56:03] [ INFO ] [TurnoService:29] Comenzo el registo del TurnoDTO con ID: null
+[2022-12-12 14:56:05] [ INFO ] [TurnoService:93] Se comenzo la búsqueda de los turnos.
+[2022-12-12 14:56:17] [ INFO ] [TurnoService:35] Comenzo la búsqueda del TurnoDTO con ID: 1
+[2022-12-12 14:56:17] [ INFO ] [TurnoService:35] Comenzo la búsqueda del TurnoDTO con ID: 1
+[2022-12-12 14:56:17] [ WARN ] [TurnoService:56] Eliminado el TurnoDTO con ID: 1
+[2022-12-12 14:56:19] [ INFO ] [PacienteService:53] Se comenzo la búsqueda de los pacientes.
+[2022-12-12 14:56:20] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 14:56:20] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 14:56:20] [ WARN ] [PacienteService:44] Eliminado el paciente con ID: 1
+[2022-12-12 14:56:21] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-12 14:56:22] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-12 14:56:22] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-12 14:56:22] [ WARN ] [OdontologoService:39] Eliminado el odontologo con ID: 1
+[2022-12-12 15:20:32] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 15:29:54] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 15:39:31] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 15:44:07] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:10:35] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:12:17] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 16:12:17] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:12:51] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 16:12:51] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:13:47] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 16:13:47] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:14:03] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 16:14:03] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:15:33] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 16:15:33] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:15:58] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 16:15:58] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:19:35] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 16:19:35] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:21:12] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 16:21:12] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:21:48] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 16:21:48] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:22:23] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 16:22:23] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:23:12] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 16:23:12] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:26:10] [ INFO ] [OdontologoService:24] Se comenzo el registro del odontologo con nombre: Stephanie
+[2022-12-12 16:26:12] [ INFO ] [OdontologoService:47] Se comenzo la búsqueda de los odontologos.
+[2022-12-12 16:26:27] [ INFO ] [PacienteService:60] Se comenzo la búsqueda del odontologo con Email: stefy9319@hotmail.com
+[2022-12-12 16:26:27] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 16:26:29] [ INFO ] [PacienteService:55] Se comenzo la búsqueda de los pacientes.
+[2022-12-12 16:26:40] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-12 16:26:40] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:26:40] [ INFO ] [TurnoService:29] Comenzo el registo del TurnoDTO con ID: null
+[2022-12-12 16:26:43] [ INFO ] [TurnoService:93] Se comenzo la búsqueda de los turnos.
+[2022-12-12 16:55:57] [ INFO ] [OdontologoService:24] Se comenzo el registro del odontologo con nombre: Maria
+[2022-12-12 16:55:57] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-12 16:55:57] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 16:55:57] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:56:09] [ INFO ] [OdontologoService:24] Se comenzo el registro del odontologo con nombre: Maria
+[2022-12-12 16:56:09] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-12 16:56:09] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 16:56:09] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:56:19] [ INFO ] [OdontologoService:24] Se comenzo el registro del odontologo con nombre: Maria
+[2022-12-12 16:56:19] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-12 16:56:19] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 16:56:19] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
+[2022-12-12 16:56:42] [ INFO ] [OdontologoService:24] Se comenzo el registro del odontologo con nombre: Maria
+[2022-12-12 16:56:42] [ INFO ] [OdontologoService:28] Se comenzo la búsqueda del odontologo con ID: 1
+[2022-12-12 16:56:42] [ INFO ] [PacienteService:26] Se comenzo el registro del paciente con nombre: Stephanie
+[2022-12-12 16:56:42] [ INFO ] [PacienteService:31] Se comenzo la búsqueda del paciente con ID: 1
